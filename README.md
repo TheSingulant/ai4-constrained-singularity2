@@ -1,5 +1,13 @@
 # AI⁴ Constrained Singularity (legacy)
 
+> **LEGACY / HISTORICAL REPOSITORY**
+>
+> This repository is not the current AI⁴ product runtime.
+>
+> Current AI⁴ engineering: https://github.com/TheSingulant/ai4-constrain
+>
+> Current project site: https://www.thesingulant.ai/
+
 This repository is **historical / legacy**. It is not the current AI⁴ engineering source.
 
 Canonical current work lives here:
